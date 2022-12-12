@@ -1,0 +1,12 @@
+console.log('hello bois do we have to do this')
+console.log(7675+76425)
+console.log(7364-8464)
+console.log(6367*2653)
+console.log(985/5)
+x=897485
+console.log(3746**2)
+console.log(33**2)
+let year=2022
+if(year==2022)console.log('you are wrong')
+else console.log('you are right')
+    
